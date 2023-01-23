@@ -1,7 +1,5 @@
 body{
     font-family: Nabla;
-}
-.bg-image{
     background-image: url("bg-image.jpg");
     background-size: cover;
 }
